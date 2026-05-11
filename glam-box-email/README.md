@@ -1,11 +1,18 @@
+# IPSY — Responsive Email Marketing Campaign
 
-  # Email HTML for Ipsy
+A collection of high-fidelity, responsive email templates designed for IPSY. These templates focus on modern beauty industry aesthetics, featuring vibrant gradients and sharp, zero-border-radius design.
 
-  This is a code bundle for Email HTML for Ipsy. The original project is available at https://www.figma.com/design/7JIPta4smEY67YSYyOCeqe/Email-HTML-for-Ipsy.
+## 📁 Campaign Variants
+* **April Glam Box**: Focuses on monthly subscription highlights with a clean grid layout.
+* **More Glow**: A promotional template designed to showcase specific skincare products.
 
-  ## Running the code
+## 🎨 Technical Highlights
+* **Inline CSS**: Optimized for maximum compatibility across email clients (Gmail, Outlook, Apple Mail).
+* **Responsive Layout**: Fluid design that adapts perfectly to mobile screens.
+* **Zero Border-Radius**: A specific stylistic choice to maintain a bold, high-fashion look.
 
-  Run `npm i` to install the dependencies.
+## 🛠 Tech Stack
+* HTML5 / CSS3 (Email-safe standards)
 
-  Run `npm run dev` to start the development server.
-  
+---
+*Practicing professional email development for fashion & beauty brands.*
