@@ -14,5 +14,9 @@ A collection of high-fidelity, responsive email templates designed for IPSY. The
 ## 🛠 Tech Stack
 * HTML5 / CSS3 (Email-safe standards)
 
+## 🔗 Live Demo
+* 🌸 **April Glam Box**: [View Live Template](https://hann199427-dot.github.io/IPSY/ipsy-april-box/)
+* ✨ **More Glow**: [View Live Template](https://hann199427-dot.github.io/IPSY/glam-box-email/)
+* 
 ---
 *Practicing professional email development for fashion & beauty brands.*
